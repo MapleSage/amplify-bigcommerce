@@ -1,5 +1,5 @@
 {
-    "SECRETNAME": "<SECRET-NAME>",
-    "SECRETKEY": "<SECRET-KEY>",
-    "SECRETARN": "<SECRET-ARN>"
+    "SECRETNAME": "BigCom-MapleSage-Heratage",
+    "SECRETKEY": "BigCom-MapleSage-HeratageStore",
+    "SECRETARN": "arn:aws:secretsmanager:us-east-1:767398007438:secret:BigCom-MapleSage-Heratage-4cyPIC"
 }
