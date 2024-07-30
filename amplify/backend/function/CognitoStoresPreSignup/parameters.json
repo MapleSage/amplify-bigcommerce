@@ -1,6 +1,6 @@
 {
-    "REDIRECTURL": "https://localhost:3000/oauth",
-    "BCCLIENTID": "kshdnk2kddfuqk1rro800fss6hfbk6q",
+    "REDIRECTURL": "https://6e67-2401-4900-1c67-6350-49fb-e21e-3ae5-3311.ngrok-free.app/api/oauth",
+    "BCCLIENTID": "8r7m2qdq9ti0iyjf5edxfazo7suwi8i",
     "modules": "",
     "resourceName": "CognitoStoresPreSignup"
 }
